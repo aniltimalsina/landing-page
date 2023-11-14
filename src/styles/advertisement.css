@@ -1,0 +1,45 @@
+.box {
+  width: 300px;
+  height: 200px;
+  background-color: black;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  opacity: 0.8;
+}
+
+.text-add {
+  width: 20px;
+  height: 30px;
+  color: azure;
+  border: 2px white solid;
+}
+
+.hidden-box {
+  display: none;
+}
+
+.image-ad {
+  height: 100px;
+  width: 100px;
+  overflow: hidden;
+}
+
+.ad-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.ad-text {
+  color: azure;
+  font-size: 10px;
+}
+
+button {
+  background-color: aqua;
+}
+button:hover {
+  opacity: 0.5;
+  background-color: beige;
+}

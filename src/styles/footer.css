@@ -1,0 +1,9 @@
+footer {
+  width: 100%;
+  background-color: aliceblue;
+  position: absolute;
+  top: 650px;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Roboto Slab", serif;
+}
